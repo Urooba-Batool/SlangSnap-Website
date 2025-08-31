@@ -1,0 +1,15 @@
+.bg{
+    background-color: rgba(230, 207, 253, 0.941);
+
+}
+.card-link-btn{
+    background-color: rgba(77, 24, 126, 0.785);
+    border-color: rgba(77, 24, 126, 0.785);
+    color: #ffffff;
+}
+
+.card-link-btn:hover{
+    background-color: #ffffff;
+    border-color: rgba(77, 24, 126, 0.785);
+    color: rgba(77, 24, 126, 0.785);
+}
